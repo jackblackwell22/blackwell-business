@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Blackwell">
+  <rect width="32" height="32" rx="6" fill="#8B4A32"/>
+  <rect x="6" y="8" width="20" height="17" rx="1" fill="#1C56C8"/>
+  <rect x="15.25" y="8" width="1.5" height="17" fill="#143F96"/>
+  <path d="M8 12h6M8 16.5h6M8 21h6M18 12h6M18 16.5h6M18 21h6" stroke="#E8DCC8" stroke-width="1.2"/>
+</svg>
